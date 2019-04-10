@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://elastic-panini-c911e5.netlify.com/"
+baseurl = "https://nckltcha.co.uk"
 themesDir = "themes/"
 languageCode = "en-us"
 title = "Nick Latocha"
@@ -48,7 +48,4 @@ disqusShortname = "spf13"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    twitter  = "https://www.twitter.com/nckltcha"
