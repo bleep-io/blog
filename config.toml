@@ -1,6 +1,6 @@
 # Site settings
-baseurl = "https://example.org/"
-themesDir = "themes"
+baseurl = "https://5cae2cf21cda7f0008c2a460--elastic-panini-c911e5.netlify.com/"
+themesDir = "themes/"
 languageCode = "en-us"
 title = "Nick Latocha"
 theme = "hugo-cactus-theme"
