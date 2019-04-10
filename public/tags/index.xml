@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nick Latocha</title>
-    <link>https://example.org/tags/</link>
+    <link>https://5cae2cf21cda7f0008c2a460--elastic-panini-c911e5.netlify.com/tags/</link>
     <description>Recent content in Tags on Nick Latocha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://5cae2cf21cda7f0008c2a460--elastic-panini-c911e5.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
