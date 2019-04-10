@@ -8,7 +8,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [[headers]]
-  for = "/*.woff"
+  for = "/*.ttf"
   [headers.values]
     Access-Control-Allow-Origin = "*"
-    Content-Type = "application/font-woff"
+    Content-Type = "application/font-ttf"
